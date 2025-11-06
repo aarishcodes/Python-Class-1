@@ -1,0 +1,1 @@
+list: ['My', 'name', 'is', 'Aarish', 'Faiz']tuple: ('My', 'name', 'is', 'Aarish', 'Faiz')

@@ -1,0 +1,2 @@
+name List: ['aarish', 'faiz']
+name tuple: ('aarish', 'faiz')
